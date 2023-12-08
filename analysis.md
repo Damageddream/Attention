@@ -5,7 +5,7 @@
 TODO
 
 Example Sentences:
-- TODO
+- I had a little moist red [MASK] in the palm of my hand.
 - TODO
 
 ## Layer TODO, Head TODO
