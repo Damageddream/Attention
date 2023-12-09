@@ -52,10 +52,6 @@ def get_mask_token_index(mask_token_id, inputs):
     return None
     
 
-
-
-
-
 def get_color_for_attention_score(attention_score):
     """
     Return a tuple of three integers representing a shade of gray for the
